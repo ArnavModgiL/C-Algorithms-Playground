@@ -1,10 +1,6 @@
 # 🚀 C-Algorithms-Playground :
 
 
-A collection of C programs covering problem-solving, algorithms, and mini projects for mastering core programming concepts.
-
----
-
 A curated collection of C programming problems, algorithms, and mini projects designed to strengthen problem-solving skills and core programming concepts.
 
 ---
