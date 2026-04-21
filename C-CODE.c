@@ -70,7 +70,7 @@ int countDigit(int n){
 
 // Factorial :
 
-long faactorial(int n){
+long factorial(int n){
     if(n == 0 || n == 1) {
         return 1;
     }
