@@ -1,4 +1,5 @@
 # 🚀 C-Algorithms-Playground :
+
 A collection of C programs covering problem-solving, algorithms, and mini projects for mastering core programming concepts.
 
 ---
@@ -7,7 +8,7 @@ A curated collection of C programming problems, algorithms, and mini projects de
 
 ---
 
-## 📌 Features
+## 📌 Features :
 
 - 🔢 Number-based problems (Prime, Armstrong, Palindrome, etc.)
 - 🔁 Recursion-based solutions
@@ -17,7 +18,7 @@ A curated collection of C programming problems, algorithms, and mini projects de
 
 ---
 
-## 🧾 Topics Covered
+## 🧾 Topics Covered :
 
 - Functions & Recursion
 - Arrays & Strings
@@ -27,13 +28,13 @@ A curated collection of C programming problems, algorithms, and mini projects de
 
 ---
 
-## 🎯 Goal
+## 🎯 Goal :
 
 To build strong fundamentals in C and improve problem-solving skills for coding interviews and real-world applications.
 
 ---
 
-## 💡 Sample Programs
+## 💡 Sample Programs :
 
 - Prime Number Checker
 - Armstrong Number
@@ -43,7 +44,7 @@ To build strong fundamentals in C and improve problem-solving skills for coding 
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Future Improvements :
 
 - File handling programs
 - Data Structures implementation
